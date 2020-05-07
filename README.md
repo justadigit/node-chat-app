@@ -15,7 +15,7 @@ Technologies used for this application are:
   3. socket.io
 
 ## Setup
-***need to download project first***
+ note : ***need to download project first***
 ```
 $ cd ../node-chat-app
 $ npm install
