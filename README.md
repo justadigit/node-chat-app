@@ -11,8 +11,7 @@
 ## Technologies
 Technologies used for this application are:
   1. node.js
-  2. express.js
-  3. socket.io
+  2. socket.io
 
 ## Setup
  note : ***need to download project first***
