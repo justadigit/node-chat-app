@@ -19,6 +19,5 @@ Technologies used for this application are:
 ```
 $ cd ../node-chat-app
 $ npm install
-$ npm init
 $ node 
 ```
